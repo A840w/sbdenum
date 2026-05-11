@@ -13,3 +13,4 @@ hyper-tls = "0.5"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 anyhow = "1.0"
+rust_socketio = "0.6.0"

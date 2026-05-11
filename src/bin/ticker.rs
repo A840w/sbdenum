@@ -21,4 +21,3 @@ fn main() {
     // Keep alive for demo
     std::thread::sleep(Duration::from_secs(30));
 }
-
